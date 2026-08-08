@@ -1,6 +1,6 @@
-# HackerRank Orchestrate
+# Project 
 
-Starter repository for the **HackerRank Orchestrate** 24-hour hackathon.
+Starter repository for **Toy Project**
 
 ## Message Notification Router
 
