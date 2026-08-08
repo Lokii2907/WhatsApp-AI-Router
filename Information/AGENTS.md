@@ -1,6 +1,6 @@
 # AGENTS.md
 
-HackerRank Orchestrate (August 2026) — Message Notification Router
+ Message Notification Router
 
 This file is the single source of truth for any AI coding agent working in this repo: Claude Code, OpenAI Codex CLI / Codex Cloud, Gemini CLI, Cursor, Windsurf, opencode, Aider, goose, Factory, RooCode, JetBrains Junie, GitHub Copilot, Devin, or any other AGENTS.md-aware tool.
 
